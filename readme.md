@@ -88,6 +88,6 @@ PRs welcome—clean code, clear math, and tests for normalization/orthogonality.
 
 ## License
 
-MIT—use it, cite it.
+MIT.
 
 
